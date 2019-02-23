@@ -1,5 +1,5 @@
 # predicting_purchase_from_webpage_cookies
-This is a repo for a data project of predicting purchase from users' webpage cookies data
+This is a repo for a data project of predicting purchase from users' webpage cookies data. I used logistic regression, decision tree, random forest and gradient boosting to try to fit and make predictions.
 
 Field Descriptions:
 
